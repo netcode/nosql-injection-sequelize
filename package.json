@@ -12,7 +12,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "mysql2": "^1.6.5",
-    "sequelize": "^4.11.0",
-    "hoek":"0.9.1"
+    "sequelize": "^4.11.0"
   }
 }
